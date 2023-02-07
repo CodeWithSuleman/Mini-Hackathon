@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "310635823283",
+    "project_id": "mini-hackathon-d0dea",
+    "storage_bucket": "mini-hackathon-d0dea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310635823283:android:b97e34d2ae5271650bb0c6",
+        "android_client_info": {
+          "package_name": "com.example.minihackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310635823283-c8611g09sg9602tpq7i79bejs5oqp6r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpE31Mph5CLQVDjP8m1n3EmjBWYhUzuSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310635823283-c8611g09sg9602tpq7i79bejs5oqp6r3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310635823283-plf8jqprdt16kfbkl2fvvu0dtdn1pu5t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.minihackathone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310635823283:android:76b8edf5f68dfc040bb0c6",
+        "android_client_info": {
+          "package_name": "com.example.minihackathone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310635823283-c8611g09sg9602tpq7i79bejs5oqp6r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpE31Mph5CLQVDjP8m1n3EmjBWYhUzuSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310635823283-c8611g09sg9602tpq7i79bejs5oqp6r3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310635823283-plf8jqprdt16kfbkl2fvvu0dtdn1pu5t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.minihackathone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
